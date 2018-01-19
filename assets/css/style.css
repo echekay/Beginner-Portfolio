@@ -1,0 +1,59 @@
+header {
+  background: #fff;
+  border-color: #ccc
+}
+
+.brand {
+  background: #4aaaa5;
+  color: #fff;
+
+}
+
+
+footer {
+  background-color: #666;
+  clear: both;
+}
+
+body {
+  background: #fff;
+  border-color: #ddd;
+}
+
+.page-links {
+  float: right;
+  list-style-type: none;
+  color: red;
+}
+
+.clearthis {
+  clear: both;
+}
+/*About Page CSS*/
+/*==============*/
+
+.about-section {
+  float: left;
+}
+
+.profile-image {
+
+}
+
+.contact-section {
+  float: left;
+}
+
+.contact-links {
+  width: 25px;
+  height: 25px;
+  float: left;
+}
+
+/*Contact Page CSS*/
+/*================*/
+
+
+/*Portfolio Page CSS*/
+/*==================*/
+
